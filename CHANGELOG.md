@@ -1,3 +1,19 @@
+## v0.31.11
+
+* Some locale updates
+
+## v0.31.10
+
+* ToC bump
+
+## v0.31.9
+
+* ToC bump
+
+## v0.31.8
+
+* Update libs
+
 ## v0.31.7
 
 * Update for schedule
