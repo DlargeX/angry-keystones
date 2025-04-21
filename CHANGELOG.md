@@ -1,3 +1,11 @@
+## v0.32.5
+
+* Locale update
+
+## v0.32.3
+
+* Locale update
+
 ## v0.32.2
 
 * Update to schedule
